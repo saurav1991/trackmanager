@@ -39,7 +39,8 @@ Session.prototype.toString = function (beforeNoon) {
 	var self = this;
 	var sessionString = "";
 	self.events.forEach(function (event) {
-		sessionString += event.startTime.toString(beforeNoon) + " " + event.title + "\n";
+		sessionString += event.startTime.toString(beforeNoon) + " " + event.title + " " + 
+							(event.duration ? (event.duration + "min") : "") + "\n";
 	});
 	return sessionString;
 };

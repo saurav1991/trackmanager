@@ -57,56 +57,31 @@ A World Without HackerNews 30min
 User Interface CSS in Rails Apps 30min
 
 #Sample Output
-
+```sh
 Track 1
-
-09:00AM Writing Fast Tests Against Enterprise Rails
-
-10:00AM Ruby on Rails Legacy App Maintenance
-
-11:00AM Ruby on Rails: Why We Should Move On
-
+09:00AM Writing Fast Tests Against Enterprise Rails 60min
+10:00AM Ruby on Rails Legacy App Maintenance 60min
+11:00AM Ruby on Rails: Why We Should Move On 60min
 12:00PM Lunch
-
-01:00PM Communicating Over Distance
-
-02:00PM Rails Magic
-
-03:00PM Ruby Errors from Mismatched Gem Versions
-
-03:45PM Pair Programming vs Noise
-
-04:30PM Lua for the Masses
-
-05:00PM Networking Event
-
-
+01:00PM Communicating Over Distance 60min
+02:00PM Rails Magic 60min
+03:00PM Ruby Errors from Mismatched Gem Versions 45min
+03:45PM Pair Programming vs Noise 45min
+04:30PM Lua for the Masses 30min
+05:00PM Networking Event 
 
 Track 2
-
-09:00AM Accounting-Driven Development
-
-09:45AM Common Ruby Errors
-
-10:30AM Clojure Ate Scala (on my project)
-
-11:15AM Overdoing it in Python
-
+09:00AM Accounting-Driven Development 45min
+09:45AM Common Ruby Errors 45min
+10:30AM Clojure Ate Scala (on my project) 45min
+11:15AM Overdoing it in Python 45min
 12:00PM Lunch
-
-01:00PM Woah
-
-01:30PM A World Without HackerNews
-
-02:00PM Programming in the Boondocks of Seattle
-
-02:30PM Ruby vs. Clojure for Back-End Development
-
-03:00PM User Interface CSS in Rails Apps
-
-03:30PM Sit Down and Write
-
-04:00PM Rails for Python Developers
-
-04:05PM Networking Event
-
+01:00PM Woah 30min
+01:30PM A World Without HackerNews 30min
+02:00PM Programming in the Boondocks of Seattle 30min
+02:30PM Ruby vs. Clojure for Back-End Development 30min
+03:00PM User Interface CSS in Rails Apps 30min
+03:30PM Sit Down and Write 30min
+04:00PM Rails for Python Developers 5min
+04:05PM Networking Event 
+```
